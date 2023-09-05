@@ -20,14 +20,8 @@ python manage.py runserver
 - Feature 1: Text Analyzer.
 - Feature 2: Telegram Group Analysis.
 
-![Screenshot 2023-09-05 033534.png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%202023-09-05%20033534.png)
-![Screenshot 2023-09-05 033827.png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%202023-09-05%20033827.png)
-![Screenshot 2023-09-05 034001.png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%202023-09-05%20034001.png)
-![Screenshot 2023-09-05 034016.png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%202023-09-05%20034016.png)
-![Screenshot 2023-09-05 034113.png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%202023-09-05%20034113.png)
-![Screenshot 2023-09-05 034139.png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%202023-09-05%20034139.png)
-![Screenshot 2023-09-05 034210.png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%202023-09-05%20034210.png)
-![Screenshot 2023-09-05 034302.png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%202023-09-05%20034302.png)
+![Screenshot 2023-09-05 034302](https://github.com/abhiD01/Telegram_Malicious_Activity_Detection/assets/138582636/f4dc1ed5-65db-4d92-8cd1-b485a305e187)
+
 
 ## Group Members
 - Abhishek Deshmane
@@ -43,4 +37,5 @@ I would like to thank Mr. Sadhu Sreenivas who contributed to our project and pro
 
 
 
-`https://github.com/abhiD01/Malicious_activity_detection_in_Telegram`
+`https://github.com/abhiD01/Telegram_Malicious_Activity_Detection.git`
+
