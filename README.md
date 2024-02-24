@@ -30,7 +30,9 @@ python manage.py runserver
 ![Screenshot 2023-09-05 034302](https://github.com/abhiD01/Telegram_Malicious_Activity_Detection/assets/138582636/f4dc1ed5-65db-4d92-8cd1-b485a305e187)
 
 
-## Abhishek Deshmane
+## Group Member
+- Abhishek Deshmane
+- Payal Deshmane
 
 ## Acknowledgments
 
