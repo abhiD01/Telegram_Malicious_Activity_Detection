@@ -20,8 +20,9 @@ python manage.py runserver
 - Feature 1: Text Analyzer.
 - Feature 2: Telegram Group Analysis.
 
-## Abhishek Deshmane
-## Payal Deshmane
+## Group Member 
+- Abhishek Deshmane
+- Payal Deshmane
 
 
 `https://github.com/abhiD01/Malicious_activity_detection_in_Telegram`
