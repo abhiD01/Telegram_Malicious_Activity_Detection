@@ -1,7 +1,7 @@
 
 # Project Name
 
-Telegram Malicious Activity Detection.
+## Telegram Malicious Activity Detection.
 
 ## Project Description
 
@@ -20,9 +20,6 @@ python manage.py runserver
 - Feature 1: Text Analyzer.
 - Feature 2: Telegram Group Analysis.
 
-<<<<<<< HEAD
-## Abhishek Deshmane
-=======
 
 ![Screenshot 2023-09-05 034001](https://github.com/abhiD01/Telegram_Malicious_Activity_Detection/assets/138582636/45a4d97e-5d32-405d-b59d-310d5c6f85bb)
 
@@ -33,13 +30,14 @@ python manage.py runserver
 ![Screenshot 2023-09-05 034302](https://github.com/abhiD01/Telegram_Malicious_Activity_Detection/assets/138582636/f4dc1ed5-65db-4d92-8cd1-b485a305e187)
 
 
-## Abhishek Deshmane
-## Payal Deshmane
+## Group Member
+- Abhishek Deshmane
+- Payal Deshmane
 
 ## Acknowledgments
 
 I would like to thank Mr. Kantilal Chandre who contributed to our project and provided support and inspiration. 
->>>>>>> ef4277122df9e4b670ca305b2377dd21059050c9
+
 
 
 
