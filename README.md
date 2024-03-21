@@ -5,7 +5,7 @@
 
 ## Project Description
 
-Malicious activities detection within messages utilizing deep learning and natural language processing, thereby pinpointing potential threats or harmful content for immediate action.
+Malicious activities detection within messages utilizing deep learning and natural language processing, thereby pinpointing potential threats or harmful content for immediate action.
 
 
 ## Usage
@@ -20,24 +20,24 @@ python manage.py runserver
 - Feature 1: Text Analyzer.
 - Feature 2: Telegram Group Analysis.
 
+![Screenshot 2023-09-05 033534.png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%202023-09-05%20033534.png)
+![Screenshot 2023-09-05 033827.png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%202023-09-05%20033827.png)
+![Screenshot 2023-09-05 034001.png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%202023-09-05%20034001.png)
+![Screenshot 2023-09-05 034016.png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%202023-09-05%20034016.png)
+![Screenshot 2023-09-05 034113.png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%202023-09-05%20034113.png)
+![Screenshot 2023-09-05 034139.png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%202023-09-05%20034139.png)
+![Screenshot 2023-09-05 034210.png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%202023-09-05%20034210.png)
+![Screenshot 2023-09-05 034302.png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%202023-09-05%20034302.png)
 
-![Screenshot 2023-09-05 034001](https://github.com/abhiD01/Telegram_Malicious_Activity_Detection/assets/138582636/45a4d97e-5d32-405d-b59d-310d5c6f85bb)
 
-![Screenshot 2023-09-05 033827](https://github.com/abhiD01/Telegram_Malicious_Activity_Detection/assets/138582636/b3a6df5c-fcfa-47b6-bc69-feb19fd146a0)
-
-![Screenshot 2023-09-05 034210](https://github.com/abhiD01/Telegram_Malicious_Activity_Detection/assets/138582636/5198efae-0fd2-492d-8530-1b0ff0c2ad90)
-
-![Screenshot 2023-09-05 034302](https://github.com/abhiD01/Telegram_Malicious_Activity_Detection/assets/138582636/f4dc1ed5-65db-4d92-8cd1-b485a305e187)
-
-
-## Group Member
 - Abhishek Deshmane
-- Payal Deshmane
+  
+Copyright © Abhishek Deshmane 2023. All rights reserved. Unauthorized copying, distribution, or reproduction of this project, or any portion thereof, is strictly prohibited
+
 
 ## Acknowledgments
 
-I would like to thank Mr. Kantilal Chandre who contributed to our project and provided support and inspiration. 
-
+I would like to thank Mr. Kantilal Chandre Mr. Sadhu Sreenivas who contributed to our project and provided support and inspiration. 
 
 
 
